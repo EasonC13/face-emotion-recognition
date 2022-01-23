@@ -1,0 +1,9 @@
+*.bin
+*.h5
+*.json
+*.log
+*.png
+*.csv
+.ipynb_checkpoints
+models/*
+/EasonTest/models
