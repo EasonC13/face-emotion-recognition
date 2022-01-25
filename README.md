@@ -1,3 +1,13 @@
+# face-emotion-recognition with Mobilenet for Affectnet
+> Fork from [HSE-asavchenko/face-emotion-recognition](https://github.com/HSE-asavchenko/face-emotion-recognition).
+
+All my research is done at [./EasonTest](https://github.com/EasonC13/face-emotion-recognition/tree/main/EasonTest)
+
+我所有的模型研究、程式碼、改進、訓練過程，都放在[./EasonTest](https://github.com/EasonC13/face-emotion-recognition/tree/main/EasonTest) 這個路徑下，其他部分是原作者的論文附件。
+
+> 以下是原始 README: Below is original README
+
+
 This repository contains code of face emotion recognition that was developed in the RSF (Russian Science Foundation) project no. 20-71-10010 (Efficient audiovisual analysis of dynamical changes in emotional state based on information-theoretic approach).
 
 Our approach is described in the [arXiv paper](https://arxiv.org/abs/2103.17107) published at [IEEE SISY 2021](https://ieeexplore.ieee.org/document/9582508). The extended version of this paper is under considereation in the international journal.
